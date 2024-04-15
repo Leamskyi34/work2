@@ -1,0 +1,23 @@
+{
+  "name": "skysleamwork2",
+  "version": "1.0.0",
+  "description": "TEA2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Leamskyi34/work2.git"
+  },
+  "dependencies": {
+    "skysleam-teaprotocol": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leamskyi34/work2/issues"
+  },
+  "homepage": "https://github.com/Leamskyi34/work2#readme"
+}
